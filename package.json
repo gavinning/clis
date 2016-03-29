@@ -1,0 +1,25 @@
+{
+  "name": "clis",
+  "version": "1.0.0",
+  "description": "一些常用的小脚本",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gavinning/clis.git"
+  },
+  "keywords": [
+    "clis"
+  ],
+  "author": "gavinning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinning/clis/issues"
+  },
+  "homepage": "https://github.com/gavinning/clis#readme",
+  "dependencies": {
+    "glob": "^7.0.3"
+  }
+}
